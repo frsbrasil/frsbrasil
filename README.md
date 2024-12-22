@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects about learning analytics ...
 - 📫 How to reach me fabio@globalinsightpartners.co.uk
 - 😄 Pronouns: He
-- (This is a test update")
+
 
 <!---
 frsbrasil/frsbrasil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
